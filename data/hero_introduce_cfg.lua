@@ -1,0 +1,78 @@
+-- credit to atom0s for help with decompiling
+-- Decompiled using luadec 2.2 rev:  for Lua 5.1 from https://github.com/viruscamp/luadec
+return {
+    [101] = {
+        CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_τ╗┐Φ░╖",
+        CareerPersonDesc = "ONE┬╖FOR┬╖ALL",
+        CvDesc = "Daiki Yamashita",
+        Id = 101,
+        PersonDesc = "one for all",
+    },
+    [102] = {
+        CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_τêåΦ▒¬",
+        CareerPersonDesc = "Explosion",
+        CvDesc = "Nobuhiko Okamoto",
+        Id = 102,
+        PersonDesc = "Explosion",
+    },
+    [104] = { CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_µ¼ºσ░öΘ║ªτë╣", CvDesc = "Kenta Miyake", Id = 104 },
+    [106] = {
+        CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_Φ╜\176",
+        CareerPersonDesc = "Engine",
+        CvDesc = "Kaito Ishikawa",
+        Id = 106,
+        PersonDesc = "Engine",
+    },
+    [107] = {
+        CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_σ╛íΦî╢σ¡\144",
+        CareerPersonDesc = "Zero Gravity",
+        CvDesc = "Ayane Sakura",
+        Id = 107,
+        PersonDesc = "Zero Gravity",
+    },
+    [108] = {
+        CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_Φ╜\176",
+        CareerPersonDesc = "Half-Cold Half-Hot",
+        CvDesc = "Y┼½ki Kaji",
+        Id = 108,
+    },
+    [109] = { CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_σà½τÖ╛Σ╕\135", CvDesc = "Marina Inoue", Id = 109 },
+    [110] = {
+        CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_Σ╕èΘ╕úτö╡µ░ö",
+        CvDesc = "Tasuku Hatanaka",
+        Id = 110,
+        PersonDesc = "Electrification",
+    },
+    [111] = { CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_µû»σ¥ªσ¢\160", CvDesc = "G┼ì Inoue", Id = 111 },
+    [112] = { CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_µû»σ¥ªσ¢\160", CvDesc = "Hiro Shimono", Id = 112 },
+    [113] = {
+        CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_τêåΦ▒¬",
+        CvDesc = "Toshiki Masuda",
+        Id = 113,
+        PersonDesc = "Hardening",
+    },
+    [114] = { CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_µû»σ¥ªσ¢\160", CvDesc = "Aoi Y┼½ki", Id = 114 },
+    [115] = { CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_µû»σ¥ªσ¢\160", CvDesc = "Junichi Suwabe", Id = 115 },
+    [118] = { CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_µû»σ¥ªσ¢\160", CvDesc = "Kei Shind┼ì", Id = 118 },
+    [120] = {
+        CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_µû»σ¥ªσ¢\160",
+        CareerPersonDesc = "Pop Off",
+        CvDesc = "Ry┼ì Hirohashi",
+        Id = 120,
+        PersonDesc = "Pop Off",
+    },
+    [121] = { CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_µû»σ¥ªσ¢\160", CvDesc = "Tetsu Inada", Id = 121 },
+    [123] = {
+        CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_τêåΦ▒¬",
+        CvDesc = "Yoshimasa Hosoya",
+        Id = 123,
+        PersonDesc = "Dark Shadow",
+    },
+    [124] = {
+        CNNameIcon = "ΦºÆΦë▓σÉìσ¡ùH_τ╗┐Φ░╖",
+        CareerPersonDesc = "ONE┬╖FOR┬╖ALL",
+        CvDesc = "Daiki Yamashita",
+        Id = 124,
+        PersonDesc = "one for all",
+    },
+}

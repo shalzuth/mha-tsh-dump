@@ -1,0 +1,150 @@
+-- credit to atom0s for help with decompiling
+-- Decompiled using luadec 2.2 rev:  for Lua 5.1 from https://github.com/viruscamp/luadec
+return {
+    GoodsCfg = {
+        {
+            ActId = 1002,
+            Cost = {
+                { 1001002, 500 },
+            },
+            Day = 1,
+            DiscountImg = "Σ╕âµùÑµ┤╗σè¿_µèÿµëú_2µè\152",
+            Id = 1,
+            Limit = 1,
+            Reward = {
+                { 1025001, 50 },
+                { 1013107, 1 },
+                { 1001001, 10000 },
+            },
+            RewardImg = "Σ╕âµùÑµ┤╗σè¿_σ╝║σîûσÉêσëéσ¢╛µáç",
+            ShowEffectNum = 1,
+            Title = "Enhancing Mixture #s48 Pack",
+        },
+        {
+            ActId = 1002,
+            Cost = {
+                { 1001002, 600 },
+            },
+            Day = 2,
+            DiscountImg = "Σ╕âµùÑµ┤╗σè¿_µèÿµëú_3µè\152",
+            Id = 2,
+            Limit = 1,
+            Reward = {
+                { 1022214, 15 },
+                { 1013107, 1 },
+                { 1001001, 10000 },
+            },
+            RewardImg = "Σ╕âµùÑµ┤╗σè¿_σñ⌐Φ╡ïσ¢áσ¡Éσ¢╛µáç",
+            ShowEffectNum = 1,
+            Title = "Talent Factor #s48 Pack",
+        },
+        {
+            ActId = 1002,
+            Cost = {
+                { 1001002, 600 },
+            },
+            Day = 3,
+            DiscountImg = "Σ╕âµùÑµ┤╗σè¿_µèÿµëú_3µè\152",
+            Id = 3,
+            Limit = 1,
+            Reward = {
+                { 1026903, 12 },
+                { 1013107, 1 },
+                { 1001001, 10000 },
+            },
+            RewardImg = "Σ╕âµùÑµ┤╗σè¿_ΘÜÅµ£║τóÄτëçσ¢╛µáç",
+            ShowEffectNum = 1,
+            Title = "Rank B Hero #s48 Pack",
+        },
+        {
+            ActId = 1002,
+            Cost = {
+                { 1001002, 500 },
+            },
+            Day = 4,
+            DiscountImg = "Σ╕âµùÑµ┤╗σè¿_µèÿµëú_3µè\152",
+            Id = 4,
+            Limit = 1,
+            Reward = {
+                { 1026907, 6 },
+                { 1013107, 1 },
+                { 1001001, 10000 },
+            },
+            RewardImg = "Σ╕âµùÑµ┤╗σè¿_ΘÜÅµ£║τóÄτëçσ¢╛µáç",
+            ShowEffectNum = 1,
+            Title = "Rank A Hero #s48 Pack",
+        },
+        {
+            ActId = 1002,
+            Cost = {
+                { 1001002, 500 },
+            },
+            Day = 5,
+            DiscountImg = "Σ╕âµùÑµ┤╗σè¿_µèÿµëú_3µè\152",
+            Id = 5,
+            Limit = 1,
+            Reward = {
+                { 1021007, 15 },
+                { 1013107, 1 },
+                { 1001001, 10000 },
+            },
+            RewardImg = "Σ╕âµùÑµ┤╗σè¿_Φè»τëçτ╗ÅΘ¬îσ¢╛µáç",
+            ShowEffectNum = 1,
+            Title = "Chip EXP #s48 Pack",
+        },
+        {
+            ActId = 1002,
+            Cost = {
+                { 1001002, 500 },
+            },
+            Day = 6,
+            DiscountImg = "Σ╕âµùÑµ┤╗σè¿_µèÿµëú_5µè\152",
+            Id = 6,
+            Limit = 1,
+            Reward = {
+                { 1026922, 1 },
+                { 1013107, 1 },
+                { 1001001, 10000 },
+            },
+            RewardImg = "Σ╕âµùÑµ┤╗σè¿_30τ║ºΦúàσñçσ¢╛µá\135",
+            ShowEffectNum = 1,
+            Title = "Gear Self-Pick #s48 Pack",
+        },
+        {
+            ActId = 1002,
+            Cost = {
+                { 1001002, 500 },
+            },
+            Day = 7,
+            DiscountImg = "Σ╕âµùÑµ┤╗σè¿_µèÿµëú_2µè\152",
+            Id = 7,
+            Limit = 1,
+            Reward = {
+                { 1021019, 20 },
+                { 1013107, 1 },
+                { 1001001, 10000 },
+            },
+            RewardImg = "Σ╕âµùÑµ┤╗σè¿_Φúàσñçµö╣Θ\128áσ¢╛µá\135",
+            ShowEffectNum = 1,
+            Title = "Gear Modification #s48 Pack",
+        },
+        {
+            ActId = 1002,
+            Cost = {
+                { 1001002, 500 },
+            },
+            Day = 8,
+            DiscountImg = "Σ╕âµùÑµ┤╗σè¿_µèÿµëú_2µè\152",
+            Id = 8,
+            Limit = 1,
+            Reward = {
+                { 1021014, 4 },
+                { 1013107, 1 },
+                { 1001001, 10000 },
+            },
+            RewardImg = "Σ╕âµùÑµ┤╗σè¿_Φúàσñçσó₧σ╣àσ¢╛µáç",
+            ShowEffectNum = 1,
+            Title = "Gear Boost #s48 Pack",
+        },
+    },
+}
